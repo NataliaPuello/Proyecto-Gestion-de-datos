@@ -9,7 +9,7 @@ Integrantes:
 
 El objetivo de este proyecto fue crear una API REST que permitiera generar 10 recomendaciones de canciones a partir de una canción ingresada por el usuario. Adicionalmente, se creó un dashboard que diera visual a las unidades de negocio del estado actual de la plataforma y comportamiendo de los indicadores de interés a la compañía.
 
-# Organización del repositorio
+# Pasos para ejecutar
 
 # Extract
 1. Descargar data sets de artistas y canciones https://drive.google.com/drive/folders/1toW8fa6ag4oNU00RuJHVUwhwEqmMsJaZ, puede encontrar una breve descripción de las variables aquí https://developer.spotify.com/documentation/web-api/reference/get-audio-features. 
