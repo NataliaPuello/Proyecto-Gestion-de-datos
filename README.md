@@ -21,5 +21,7 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 # Load
 4. PostgreSQL: para hacer el cargue de los datos a esta herramienda se debe correr el script Load SQL.
 5. BigQuery: en el script Load_Big_Query está el despliegue de los datos a Google Cloud Platform.
-6.  
+6. Autonomous Data Warehouse de Oracle : Crear el datawarehouse con 1 OCPU y 1 TB, adicionalmente se deben cargar las bases de datos de artists y tracks limpias.
+7. Oracle Analytics Cloud : Desplegar el visualizador y crear la conexión con el Data Warehouse.
+
 
