@@ -1,11 +1,11 @@
 # Proyecto-Gestion-de-datos
 
 Integrantes:
-- Elianana Romero Leon
+- Eliana Romero Leon
 - Ivan Trujillo Abella
 - Natalia Puello Acosta
 
-# Alcance y carácterísticas del proyecto
+# Alcance y características del proyecto
 
 El objetivo de este proyecto fue crear una API REST que permitiera generar 10 recomendaciones de canciones a partir de una canción ingresada por el usuario. Adicionalmente, se creó un dashboard que diera visual a las unidades de negocio del estado actual de la plataforma y comportamiendo de los indicadores de interés a la compañía.
 
