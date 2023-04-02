@@ -20,6 +20,6 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 
 # Load
 4. PostgreSQL: para hacer el cargue de los datos a esta herramienda se debe correr el script Load SQL.
-5. BigQuery: en el script XXXX está el despliegue de los datos a Google Cloud Platform.
+5. BigQuery: en el script Load_Big_Query está el despliegue de los datos a Google Cloud Platform.
 6.  
 
