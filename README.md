@@ -2,7 +2,7 @@
 
 Integrantes:
 - Elianana Romero Leon
-- Ivan Trujillo
+- Ivan Trujillo Abella
 - Natalia Puello Acosta
 
 # Alcance y carácterísticas del proyecto
@@ -16,8 +16,10 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 
 # Transform  
 2. Correr los scripts Artists y Tracks, estos hacen una limpieza inicial de los datos. La salida de estos son los csv artist_new, tracks_new, lastbase y remaster.
-3. Correr script Intermedio Artists, este añade el género principal al data set artist_new
+3. Correr script Intermedio Artists, este añade el género principal al data set artist_new y genera una nueva versión del mismo.
 
 # Load
-4. 
+4. PostgreSQL: para hacer el cargue de los datos a esta herramienda se debe correr el script Load SQL.
+5. BigQuery: en el script XXXX está el despliegue de los datos a Google Cloud Platform.
+6.  
 
