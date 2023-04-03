@@ -30,22 +30,27 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 # Resultado final
 En el siguiente link se podra observar un video con los resultados obtenidos tanto del dashboard como la aplicación de recomendación. https://drive.google.com/file/d/1aFDabcyL0x5ktmSq6RGyTexkD-pdVv9N/view
 
-# Recommendation system to spotify(Basic Web application)
+# Sistema de recomendación  para  spotify(Prototipo de aplicativo WEB)
 
 ![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
 
-the followings is a try to document
+posterior a a ejecutar el notebook files_to_web.ipynb se crearán los archivos:
+* Vagrantfile
+* training.py
+* app.py
+
+posterior para activar el ambiente de desarrollo ejectutamos en el terminal
 
     vagrant up
     vagrant ssh
     cd vagrant
 
-after in terminal you can put
+cuando estemos en la carpeta compartida podemos ejecutar 
 
     python3 training.py
     python3 app.py
 
-you can put in the browser the following url
+y el aplicativo estará corriendo en la siguiente dirección:
 
     0.0.0.0:1234
 
