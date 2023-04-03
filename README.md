@@ -34,23 +34,23 @@ En el siguiente link se podra observar un video con los resultados obtenidos tan
 
 ![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
 
-posterior a a ejecutar el notebook files_to_web.ipynb se crearán los archivos:
+Posterior a a ejecutar el notebook files_to_web.ipynb se crearán los archivos:
 * Vagrantfile
 * training.py
 * app.py
 
-posterior para activar el ambiente de desarrollo ejectutamos en el terminal
+Posterior para activar el ambiente de desarrollo ejectutamos en el terminal
 
     vagrant up
     vagrant ssh
     cd vagrant
 
-cuando estemos en la carpeta compartida podemos ejecutar 
+Cuando estemos en la carpeta compartida podemos ejecutar 
 
     python3 training.py
     python3 app.py
 
-y el aplicativo estará corriendo en la siguiente dirección:
+Y el aplicativo estará corriendo en la siguiente dirección:
 
     0.0.0.0:1234
 
