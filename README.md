@@ -5,6 +5,8 @@ Integrantes:
 - Ivan Trujillo Abella
 - Natalia Puello Acosta
 
+
+
 # Alcance y características del proyecto
 
 El objetivo de este proyecto fue crear una API REST que permitiera generar 10 recomendaciones de canciones a partir de una canción ingresada por el usuario. Adicionalmente, se creó un dashboard que diera visual a las unidades de negocio del estado actual de la plataforma y comportamiendo de los indicadores de interés a la compañía.
@@ -27,3 +29,23 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 
 # Resultado final
 En el siguiente link se podra observar un video con los resultados obtenidos tanto del dashboard como la aplicación de recomendación. https://drive.google.com/file/d/1aFDabcyL0x5ktmSq6RGyTexkD-pdVv9N/view
+
+# Recommendation system to spotify(Basic Web application)
+
+![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
+
+the followings is a try to document
+
+    vagrant up
+    vagrant ssh
+    cd vagrant
+
+after in terminal you can put
+
+    python3 training.py
+    python3 app.py
+
+you can put in the browser the following url
+
+    0.0.0.0:1234
+
