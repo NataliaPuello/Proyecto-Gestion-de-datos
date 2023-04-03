@@ -26,10 +26,6 @@ El objetivo de este proyecto fue crear una API REST que permitiera generar 10 re
 6. Autonomous Data Warehouse de Oracle : Crear el datawarehouse con 1 OCPU y 1 TB, adicionalmente se deben cargar las bases de datos de artists y tracks limpias.
 7. Oracle Analytics Cloud : Desplegar el visualizador y crear la conexión con el Data Warehouse.
 
-
-# Resultado final
-En el siguiente link se podra observar un video con los resultados obtenidos tanto del dashboard como la aplicación de recomendación. https://drive.google.com/file/d/1aFDabcyL0x5ktmSq6RGyTexkD-pdVv9N/view
-
 # Sistema de recomendación  para  spotify(Prototipo de aplicativo WEB)
 
 ![Alt Text](https://github.com/it-ces/Recommender-SS/blob/main/shortgift.gif)
@@ -54,3 +50,5 @@ Y el aplicativo estará corriendo en la siguiente dirección:
 
     0.0.0.0:1234
 
+# Resultado final
+En el siguiente link se podra observar un video con los resultados obtenidos tanto del dashboard como la aplicación de recomendación. https://drive.google.com/file/d/1aFDabcyL0x5ktmSq6RGyTexkD-pdVv9N/view
